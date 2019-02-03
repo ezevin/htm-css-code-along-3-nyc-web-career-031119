@@ -3,7 +3,9 @@
 @import url('https://fonts.googleapis.com/css?family=Elsie');
 </style>
 
-
+<style>
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie');
+</style>
 
 /* This is a comment*/
 /* CSS Syntax Selector {
